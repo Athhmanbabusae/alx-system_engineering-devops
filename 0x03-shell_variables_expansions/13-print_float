@@ -1,2 +1,4 @@
 #!/bin/bash
 printf x.2fn $NUM 
+#!/bin/bash
+printf "%.2f\n" $NUM 
